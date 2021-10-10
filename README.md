@@ -41,14 +41,14 @@ render an alert with the value “Hacked”.
 # Section 3: Risk Analysis
 The next step is to rank the risks in order of what should be dealt with first. 
 ## Task 1: Scoring Risks
-Use the matrix in the Threat Model Report to score the risks that we’ve identified so far to the Juice Shop
+Use the matrix in the Threat Model Report to score the risks that we’ve identified so far to the Juice Shop.
 ## Task 2: Risk Rationale
 Now that we’ve scored all our risks, explain why you chose to rank the risks in the way you did. This rationale and ranking shows where Udajuicer’s resources should be allocated
 first as opposed to trying to tackle everything at once.
 
 # Section 4: Mitigation Plan
 ## Task 1: Secure Architecture
-Use draw.io to design a far more secure architecture for Manu to implement in getting the Juice Shop back up and running,
+Use draw.io to design a far more secure architecture to get the Juice Shop back up and running,
 ## Task 2: Mystery Attack Mitigation
 Now we want to tackle his most pressing issue and want to implement a solution to mitigate the attack you identified previously.
 ## Task 3: SQL Injection Mitigation
