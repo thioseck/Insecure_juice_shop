@@ -20,7 +20,7 @@ The first part of our threat model is being able to identify all the assets invo
 diagram, identify all the components that make up Udajuicer and document them in the assessment scope of your report. After identifying all the parts, explain the function of each
 part and how a request goes from the client to the server. 
 ## Part 2: Architecture Audit
-Now, that we’ve identified all the components that makeup Udajuicer, let’s conduct an architecture review with the given diagram (secure architecture best practices)
+Now, that we’ve identified all the components that makeup Udajuicer, let’s conduct an architecture review with the given diagram (secure architecture best practices).
 ## Part 3: Threat Model
 Build a Threat Model Diagram showing the flow of data using OWASP Threat Dragon. Identify at least 3 possible threats that would pose a threat to oour web application (Top 10
 OWASP).
