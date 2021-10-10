@@ -19,7 +19,6 @@ As the security analyst, my job will consist of building a threat model for Udaj
 The first part of our threat model is being able to identify all the assets involved in the target of the assessment. What does Udajuicer have of value? Looking at the architecture 
 diagram, identify all the components that make up Udajuicer and document them in the assessment scope of your report. After identifying all the parts, explain the function of each
 part and how a request goes from the client to the server. 
-
 ## Part 2: Architecture Audit
 Now that we’ve identified all the components that makeup Udajuicer, let’s conduct an architecture review with the given diagram. Referencing what we went over secure architecture best 
 practices, list out at least 3 flaws. 
@@ -38,17 +37,14 @@ The final part of our assessment consists of us trying to identify who would pos
 # Section 2: Vulnerability Analysis
 ## Task 1: SQL 
 The first vulnerability we want to exploit is on the login page of the website
-
 ## Task 2: XSS
 The second vulnerability we want to exploit is after we’ve logged into the site. We want to exploit an XSS vulnerability in the search bar. Attempt an arbitrary command that will
 render an alert with the value “Hacked”. 
 
 # Section 3: Risk Analysis
-After notifying Manu of two more vulnerabilities, his technophobia is in full display. You reassure him that these problems can be resolved but the next step is to rank the risks in
-order of what should be dealt with first. 
+The next step is to rank the risks in order of what should be dealt with first. 
 ## Task 1: Scoring Risks
 Use the matrix in the Threat Model Report to score the risks that we’ve identified so far to the Juice Shop
-
 ## Task 2: Risk Rationale
 
 Now that we’ve scored all our risks, explain why you chose to rank the risks in the way you did. This rationale and ranking shows where Udajuicer’s resources should be allocated
