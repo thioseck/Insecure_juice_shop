@@ -39,7 +39,7 @@ The final part of our assessment consists of us trying to identify who would pos
 ## Task 1: SQL 
 The first vulnerability we want to exploit is on the login page of the website
 
-Task 2: XSS
+## Task 2: XSS
 The second vulnerability we want to exploit is after we’ve logged into the site. We want to exploit an XSS vulnerability in the search bar. Attempt an arbitrary command that will
 render an alert with the value “Hacked”. 
 
