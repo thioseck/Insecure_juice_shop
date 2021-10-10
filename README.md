@@ -22,7 +22,7 @@ part and how a request goes from the client to the server.
 ## Part 2: Architecture Audit
 Now, that we’ve identified all the components that makeup Udajuicer, let’s conduct an architecture review with the given diagram (secure architecture best practices).
 ## Part 3: Threat Model
-Build a Threat Model Diagram showing the flow of data using OWASP Threat Dragon. Identify at least 3 possible threats that would pose a threat to oour web application (Top 10
+Build a Threat Model Diagram showing the flow of data using OWASP Threat Dragon. Identify at least 3 possible threats that would pose a threat to our web application (Top 10
 OWASP).
 ## Part 4: Threat Analysis
 We’ve now identified a few insecurities in Udajuicer’s architecture and want to use this knowledge to help us identify what was causing Udajuicer's website to crash. When in doubt,
