@@ -43,7 +43,7 @@ The next step is to rank the risks in order of what should be dealt with first.
 ## Task 1: Scoring Risks
 Use the matrix in the Threat Model Report to score the risks that we’ve identified so far to the Juice Shop.
 ## Task 2: Risk Rationale
-Now that we’ve scored all our risks, explain why you chose to rank the risks in the way you did. This rationale and ranking shows where Udajuicer’s resources should be allocated
+Now, that we’ve scored all our risks, explain why you chose to rank the risks in the way you did. This rationale and ranking shows where Udajuicer’s resources should be allocated
 first as opposed to trying to tackle everything at once.
 
 # Section 4: Mitigation Plan
