@@ -1,6 +1,6 @@
 # Insecure juice shop
 
-# Ojectif
+# Ojective
 Udajuicer, the largest juice shop in the world was booming until Covid-19 hit. The business team come up with an online application where customers can place orders for 
 delivery/pickup. Someone was able to build them their juice shop application. Unfortunately, the site would constantly go down and they weren’t sure what the issue was. 
 To find out why the Juice Shop site keeps going down, SecureCorp, the world well known cybersecurity consulting firm deploys me a security analyst.
