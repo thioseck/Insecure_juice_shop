@@ -3,7 +3,7 @@
 # Ojectif
 Udajuicer, the largest juice shop in the world was booming until Covid-19 hit. The business team to come up with an online application where customers can place orders for 
 delivery/pickup. Someone was able to build them their juice shop application. Unfortunately, the site would constantly go down and they weren’t sure what the issue was. 
-To find out why the Juice Shop site keeps going down, SecureCorp, the world-renown cybersecurity consulting firm a security analyst.
+To find out why the Juice Shop site keeps going down, SecureCorp, the world well known cybersecurity consulting firm deploys me a security analyst.
 As the security analyst, my job will consist of building a threat model for Udajuicer’s website.
 
 # Getting Started
