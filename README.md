@@ -25,8 +25,8 @@ Now that we’ve identified all the components that makeup Udajuicer, let’s co
 practices, list out at least 3 flaws. 
 
 ## Part 3: Threat Model
-Build a Threat Model Diagram showing the flow of data using OWASP Threat Dragon. Identify at least 3 possible threats that would pose a threat to oour web application. Think of the
-OWASP Top 10.
+Build a Threat Model Diagram showing the flow of data using OWASP Threat Dragon. Identify at least 3 possible threats that would pose a threat to oour web application (Top 10
+OWASP).
 
 ## Part 4: Threat Analysis
 We’ve now identified a few insecurities in Udajuicer’s architecture and want to use this knowledge to help us identify what was causing Udajuicer's website to crash. When in doubt,
