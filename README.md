@@ -22,15 +22,12 @@ part and how a request goes from the client to the server.
 ## Part 2: Architecture Audit
 Now that we’ve identified all the components that makeup Udajuicer, let’s conduct an architecture review with the given diagram. Referencing what we went over secure architecture best 
 practices, list out at least 3 flaws. 
-
 ## Part 3: Threat Model
 Build a Threat Model Diagram showing the flow of data using OWASP Threat Dragon. Identify at least 3 possible threats that would pose a threat to oour web application (Top 10
 OWASP).
-
 ## Part 4: Threat Analysis
 We’ve now identified a few insecurities in Udajuicer’s architecture and want to use this knowledge to help us identify what was causing Udajuicer's website to crash. When in doubt,
 investigating logs should point us in the right direction. Analyze the log file on the desktop to identify what type of attack took down the Juice Shop.
-
 ## Part 5: Threat Actor Analysis
 The final part of our assessment consists of us trying to identify who would possibly want to take down the Juice Shop? 
 
@@ -46,19 +43,15 @@ The next step is to rank the risks in order of what should be dealt with first.
 ## Task 1: Scoring Risks
 Use the matrix in the Threat Model Report to score the risks that we’ve identified so far to the Juice Shop
 ## Task 2: Risk Rationale
-
 Now that we’ve scored all our risks, explain why you chose to rank the risks in the way you did. This rationale and ranking shows where Udajuicer’s resources should be allocated
 first as opposed to trying to tackle everything at once.
 
 # Section 4: Mitigation Plan
 ## Task 1: Secure Architecture
 Use draw.io to design a far more secure architecture for Manu to implement in getting the Juice Shop back up and running,
-
 ## Task 2: Mystery Attack Mitigation
 Now we want to tackle his most pressing issue and want to implement a solution to mitigate the attack you identified previously.
-
 ## Task 3: SQL Injection Mitigation
 The next issue we want to fix is the SQL injection vulnerability on his login page.
-
 ## Task 4: XSS Mitigation
 The last issue we want to fix is the XSS vulnerability.
